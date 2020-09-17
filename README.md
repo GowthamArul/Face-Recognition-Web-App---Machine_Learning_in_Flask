@@ -24,3 +24,5 @@ Execute this command to activate Virtual environment (freeai) =. \freeai\Scripts
 Step 1: Home Page
 
 Chick the FaceApp button in the Navbar to move the next stage of this project
+
+![](home.PNG)
