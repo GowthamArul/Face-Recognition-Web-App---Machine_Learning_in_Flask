@@ -1,10 +1,15 @@
 # Face-Recognition-Web-App---Machine_Learning_in_Flask
 
 Can expect 60% Accurate Prediction
+<br>
 For testing this Face Recognition, Download this github file.
+
 To install virtual environment
+
 Window: - pip install –user virtualenv (Enter in your anaconda prompt)
+
 For Linux: - python3 -m install –user virtualenv
+
 Required Libraries:
 1.	numpy
 2.	scipy
