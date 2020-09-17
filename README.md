@@ -1,6 +1,6 @@
 # Face-Recognition-Web-App---Machine_Learning_in_Flask
 
-Can expect 60% Accurate Prediction
+Can expect 60% Accurate Gender Prediction
 <br>
 For testing this Face Recognition, Download this github file.
 <br>
