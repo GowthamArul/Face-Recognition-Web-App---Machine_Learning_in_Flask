@@ -26,3 +26,22 @@ Step 1: Home Page
 Chick the FaceApp button in the Navbar to move the next stage of this project
 
 <img src="home.PNG" width="" height="600">
+
+Step2: FaceApp
+
+<img src="Faceapp.PNG" width="" height="600">
+
+Step3: Test:
+
+Upload the image, and press predict for face recognition.
+
+Test 1:
+
+<img src="test.PNG" width="" height="600">
+
+Test 2:
+
+<img src="test1.PNG" width="" height="600">
+
+
+If you have any issues, do let me know in comment!!!!
