@@ -41,7 +41,7 @@ Test 1:
 
 Test 2:
 
-<img src="test1.PNG" width="" height="600">
+<img src="test2.PNG" width="" height="600">
 
 
 If you have any issues, do let me know in comment!!!!
