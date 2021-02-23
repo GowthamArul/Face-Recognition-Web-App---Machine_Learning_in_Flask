@@ -1,4 +1,4 @@
-# Face-Recognition-Web-App---Machine_Learning_in_Flask
+# Face Recognition WebApp-Machine_Learning in Flask
 
 pip install -r <text file with requirements> --> enter the required packages in the text file and use this cmd to install all the packages.
 
